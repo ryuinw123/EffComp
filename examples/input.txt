@@ -1,0 +1,62 @@
+﻿[
+{
+    "question":  "what purpose did seasonal monsoon winds have on trade",
+    "answers":  [
+                    "The trade winds are the prevailing pattern of easterly surface winds found in the tropics , within the lower portion of the Earth \u0027s atmosphere , in the lower section of the troposphere near the Earth \u0027s equator . The trade winds blow predominantly from the northeast in the Northern Hemisphere and from the southeast in the Southern Hemisphere , strengthening during the winter and when the Arctic oscillation is in its warm phase . Trade winds have been used by captains of sailing ships to cross the world \u0027s oceans for centuries , and enabled European empire expansion into the Americas and trade routes to become established across the Atlantic and Pacific oceans .",
+                    "enabled European empire expansion into the Americas and trade routes to become established across the Atlantic and Pacific oceans"
+                ],
+    "ctxs":  [
+                 {
+                     "id":  "15422590",
+                     "title":  "Monsoon of South Asia",
+                     "text":  "winds in the Southern Hemisphere turn left), these southeast trade winds are deflected east in the Northern Hemisphere, transforming into southwest trades. These pick up moisture while traveling from sea to land and cause orographic rain once they hit the highlands of the Indian Peninsula. This results in the southwest monsoon. The dynamic theory explains the monsoon as a global weather phenomenon rather than just a local one. And when coupled with the traditional theory (based on the heating of sea and land), it enhances the explanation of the varying intensity of monsoon precipitation along the coastal regions with orographic"
+                 },
+                 {
+                     "id":  "11490909",
+                     "title":  "Wind",
+                     "text":  "lie near the average latitude of the subtropical ridge, where descent reduces the relative humidity of the air mass. The strongest winds are in the mid-latitudes where cold polar air meets warm air from the tropics. The trade winds (also called trades) are the prevailing pattern of easterly surface winds found in the tropics towards the Earth\u0027s equator. The trade winds blow predominantly from the northeast in the Northern Hemisphere and from the southeast in the Southern Hemisphere. The trade winds act as the steering flow for tropical cyclones that form over the world\u0027s oceans. Trade winds also steer African"
+                 },
+                 {
+                     "id":  "6344037",
+                     "title":  "North Indian Ocean tropical cyclone",
+                     "text":  "round, although strong wind shear from the monsoon trough prevents formation in the summer months and limits intensity other times of the year. An increase in air pollution since the 1930s caused a decrease in the wind shear, allowing storms to have become stronger since 1979. A study analyzing the spring season of tropical cyclones in the Bay of Bengal found increases in both premonsoon precipitation and tropical cyclone intensity as a result of enhanced large-scale monsoon circulation after 1979. The deepened monsoon trough in the Bay of Bengal not only affects cyclone frequency and timing, but also acts to"
+                 },
+                 {
+                     "id":  "20217966",
+                     "title":  "Orinoco Basin",
+                     "text":  "the long run it is maintained exactly in that direction. In the rainy season (or winter) the direction changes slightly and proceeds practically from the free east. But this is not the most remarkable change, but the decrease of its speed. This is due to the greater humidity that the trade winds bring and to the consequent convection: as the wet winds advance on the savanna they increase of temperature by the heat of the ground due to the solar radiation. In turn, this warming gives rise to the rise of moist air (precisely what we know as convection) and"
+                 },
+                 {
+                     "id":  "15422593",
+                     "title":  "Monsoon of South Asia",
+                     "text":  "shifts north, too. The intense heat over the Tibetan Plateau, coupled with associated terrain features like the high altitude of the plateau, generate the tropical easterly jet over central India. This jet creates a low-pressure zone over the northern Indian plains, influencing the wind flow toward these plains and assisting the development of the southwest monsoon. The \"bursting\" of the monsoon is primarily explained by the jet stream theory and the dynamic theory. According to this theory, during the summer months in the Northern Hemisphere, the ITCZ shifts north, pulling the southwest monsoon winds onto the land from the sea."
+                 },
+                 {
+                     "id":  "6432562",
+                     "title":  "Bharuch district",
+                     "text":  "in the important pre-compass coastal trading routes to points West, perhaps as far back as the days of the Pharaohs, which utilised the regular and predictable Monsoon winds or galleys. Many goods from the Far East (the famed Spice and Silk trade) were trans-shipped there for the annual monsoon winds making it a terminus for several key land-sea trade routes and Bharuch was definitely known to the Greeks, the various Persian Empires and in the Roman Republic and Empire and other Western centres of civilisation right on through the end of the European Middle Ages. With the advent of the"
+                 },
+                 {
+                     "id":  "11490934",
+                     "title":  "Wind",
+                     "text":  "airport, and airfield runways are aligned to account for the common wind direction(s) of the local area. While taking off with a tailwind may be necessary under certain circumstances, a headwind is generally desirable. A tailwind increases takeoff distance required and decreases the climb gradient. Historically, the ancient Sinhalese of Anuradhapura and in other cities around Sri Lanka used the monsoon winds to power furnaces as early as 300 BCE. The furnaces were constructed on the path of the monsoon winds to exploit the wind power, to bring the temperatures inside up to . A rudimentary windmill was used to"
+                 },
+                 {
+                     "id":  "3100457",
+                     "title":  "Trade winds",
+                     "text":  "within the subtropical ridge. The weaker the trade winds become, the more rainfall can be expected in the neighboring landmasses. The term \"trade winds\" originally derives from the early fourteenth century late Middle English word \"trade,\" meaning \"path\" or \"track.\" The Portuguese recognized the importance of the trade winds (then the \"Volta do mar\", meaning in Portuguese \"turn of the sea\" but also \"return from the sea\") in navigation in both the north and south Atlantic ocean as early as the 15th century. From West Africa, the Portuguese had to sail away from continental Africa, that is, to west and"
+                 },
+                 {
+                     "id":  "3100456",
+                     "title":  "Trade winds",
+                     "text":  "and trade routes to become established across the Atlantic and Pacific oceans. In meteorology, the trade winds act as the steering flow for tropical storms that form over the Atlantic, Pacific, and southern Indian Oceans and make landfall in North America, Southeast Asia, and Madagascar and eastern Africa, respectively. Trade winds also transport African dust westward across the Atlantic Ocean into the Caribbean Sea, as well as portions of southeastern North America. Shallow cumulus clouds are seen within trade wind regimes, and are capped from becoming taller by a trade wind inversion, which is caused by descending air aloft from"
+                 },
+                 {
+                     "id":  "16081462",
+                     "title":  "North African climate cycles",
+                     "text":  "period, is the fundamental factor behind the Orbital Monsoon Hypothesis. Due to variations in heat capacity, continents heat up faster than surrounding oceans during summer months when insolation is at its strongest and cool off faster than the surrounding oceans during winter months when insolation is at its weakest. The wind pattern that results from the continent/ocean insolation temperature gradient is known as a monsoon. Values of summer insolation are more important for a region\u0027s climate than winter values. This is because the winter phase of a monsoon is always dry. Thus the flora and fauna of a monsoonal climate"
+                 }
+             ]
+}
+]
+
