@@ -1,4 +1,4 @@
-# EffComp (Findings of AACL 2026)
+# EffComp: Efficient Prompt Compression via Hybrid Reinforcement & Supervised Learning (Findings of AACL 2026)
 
 We present **EffComp**, a framework for compressing retrieved documents for question answering. EffComp uses hybrid reinforcement learning (RL) and supervised learning (SL) to train a sentence selection policy that retains relevant context from retrieved passages. This repository provides the code for training and inference.
 
