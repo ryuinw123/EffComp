@@ -129,3 +129,14 @@ For all training arguments:
 python finetune.py --help
 ```
 
+Citation
+
+@misc{tungsununtham2026effcompefficientpromptcompression,
+      title={EffComp: Efficient Prompt Compression via Hybrid Reinforcement & Supervised Learning}, 
+      author={Romtham Tungsununtham and Piyawat Lertvittayakumjorn and Atiwong Suchato and Peerapon Vateekul},
+      year={2026},
+      eprint={2611.02766},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2611.02766}, 
+}
